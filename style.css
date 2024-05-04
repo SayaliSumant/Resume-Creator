@@ -1,0 +1,20 @@
+body{
+    background-color:whitesmoke;
+}
+
+.temp{
+    display: none;
+}
+
+.myImg{
+    border-radius: 50%;
+    height: 70%;
+    width: 200px;
+}
+
+.row1{
+    background-color:rgb(128, 123, 143);
+}
+.row2{
+    background-color:white;
+}
