@@ -1,1 +1,1 @@
-# Resume-Genarator
+# Resume-Creator
